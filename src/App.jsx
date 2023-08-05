@@ -4,11 +4,13 @@ import Feed from './pages/feed'
 function App() {
 
   return (
+  <div>
     <Router>
       <Routes>
         <Route path="/" element={<Feed/>}/>
       </Routes>
     </Router>
+  </div>
   )
 }
 
