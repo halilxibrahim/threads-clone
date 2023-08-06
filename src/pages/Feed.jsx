@@ -8,6 +8,8 @@ const Feed = () => {
       <Thread/>
       <Thread/>
       <Thread/>
+      <Thread/>
+      <Thread/>
     </div>
   )
 }
